@@ -3,9 +3,9 @@ title: "Grimoire"
 author: "Saph, thebombzen, Cogniss"
 description:
   "A searchable D&D 5e spell list, sorted by class and level."
-baseurl: "/spells" # the subpath of your site, e.g. /blog/
+baseurl: "/Grimoire" # the subpath of your site, e.g. /blog/
 url: "http://cogniss.github.io" # the base hostname & protocol for your site
-source-url: "https://github.com/cogniss/spells/"
+source-url: "https://github.com/cogniss/Grimoire/"
 permalink: "/:categories/:title"
 exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md']
 
